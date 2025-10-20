@@ -4,10 +4,10 @@
 
 ### Full-Stack Developer | MERN Stack Specialist | Cloud Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdziya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdziya.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdziya/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammohdziya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohdziya)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamMohdZiya)
 
 </div>
 
@@ -134,12 +134,27 @@ A full-stack MERN application providing centralized access to courses, resources
 ## 📊 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamMohdZiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c3e88d)
+<img src="https://github-readme-stats.vercel.app/api?username=mohdziya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamMohdZiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c3e88d)
+</td>
+<td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamMohdZiya&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdziya&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdziya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -192,7 +207,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 💡 Fun Facts
 
-- 🎯 Built projects on microservices as Fresher
+- 🎯 Built my first web application at age 20
 - 📈 Improved API response times by 35% through optimization
 - 🏆 Led 10+ events with 500+ attendees and 90% satisfaction rate
 - 🌟 Passionate about AI and emerging technologies
@@ -206,7 +221,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 **"Turning ideas into reality, one line of code at a time"** ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohdziya&color=00d9ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=iamMohdZiya&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
 
