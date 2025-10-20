@@ -69,7 +69,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern, sca
 ## 🎯 Featured Projects
 
 ### 🛒 E-Commerce Microservices Platform
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/mohdziya)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/iamMohdZiya/ecommerceMicroservices)
 
 A scalable e-commerce platform built with microservices architecture featuring Auth, Users, Items, and Orders services.
 
@@ -85,7 +85,7 @@ A scalable e-commerce platform built with microservices architecture featuring A
 ---
 
 ### 🏥 Am Well - Virtual Healthcare Assistant
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/mohdziya) [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=google-chrome)](https://demo-link.com)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/iamMohdZiya/Amwell) [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=google-chrome)](https://amwell.onrender.com/)
 
 A comprehensive healthcare platform with real-time ambulance tracking and AI-powered chatbot assistance.
 
@@ -100,7 +100,7 @@ A comprehensive healthcare platform with real-time ambulance tracking and AI-pow
 ---
 
 ### 📚 Student-Hub - Campus Collaboration Platform
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/mohdziya) [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=google-chrome)](https://demo-link.com)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/iamMohdZiya/Student_Hub_mern) [![Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=google-chrome)](https://student-hub-mern.onrender.com/)
 
 A full-stack MERN application providing centralized access to courses, resources, and announcements.
 
@@ -138,19 +138,19 @@ A full-stack MERN application providing centralized access to courses, resources
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohdziya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamMohdZiya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdziya&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamMohdZiya&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdziya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamMohdZiya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </td>
 </tr>
@@ -186,9 +186,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdziya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdziya/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammohdziya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohdziya.netlify.app/)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919763236258)
 
 </div>
@@ -221,7 +221,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 **"Turning ideas into reality, one line of code at a time"** ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamMohdZiya&color=00d9ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mohdziya&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
 
