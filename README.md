@@ -135,11 +135,11 @@ A full-stack MERN application providing centralized access to courses, resources
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdziya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c3e88d)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamMohdZiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c3e88d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdziya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c3e88d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamMohdZiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c3e88d)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohdziya&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamMohdZiya&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
 </div>
 
@@ -192,7 +192,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ## 💡 Fun Facts
 
-- 🎯 Built my first web application at age 20
+- 🎯 Built projects on microservices as Fresher
 - 📈 Improved API response times by 35% through optimization
 - 🏆 Led 10+ events with 500+ attendees and 90% satisfaction rate
 - 🌟 Passionate about AI and emerging technologies
